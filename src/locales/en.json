@@ -1,0 +1,144 @@
+{
+  "Index": {
+    "meta_title": "SaaS Template - The perfect SaaS template to build and scale your business with ease.",
+    "meta_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+  },
+  "Navbar": {
+    "sign_in": "Sign in",
+    "sign_up": "Sign up",
+    "product": "Product",
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "blog": "Blog",
+    "about": "About"
+  },
+  "LocaleSwitcher": {
+    "button_label": "Change language"
+  },
+  "Hero": {
+    "follow_twitter": "Follow @Ixartz on Twitter",
+    "title": "The perfect <important>SaaS template</important> to build and scale your business with ease.",
+    "description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "primary_button": "Get Next.js SaaS Starter Kit",
+    "secondary_button": "Star on GitHub"
+  },
+  "Features": {
+    "section_subtitle": "Features",
+    "section_title": "Unlock the Full Potential of the SaaS Template",
+    "section_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "feature1_title": "Node.js",
+    "feature2_title": "React",
+    "feature3_title": "Tailwind CSS",
+    "feature4_title": "TypeScript",
+    "feature5_title": "Shadcn UI",
+    "feature6_title": "ESLint",
+    "feature_description": "A free and open-source landing page template for your SaaS business, built with React, TypeScript, Shadcn UI, and Tailwind CSS."
+  },
+  "Pricing": {
+    "section_subtitle": "Pricing",
+    "section_title": "Free to start, upgrade when you need more",
+    "section_description": "Scan your website, find SEO issues, and get clear recommendations to fix them.",
+    "button_text": "Get started",
+    "interval_monthly": "Monthly",
+    "interval_yearly": "Yearly"
+  },
+  "PricingPlans": {
+    "free_plan_name": "Free",
+    "pro_plan_name": "Pro"
+  },
+  "PricingCard": {
+    "free_plan_description": "For trying it out",
+    "pro_plan_description": "For ongoing SEO monitoring",
+    "plan_price": "${price}",
+    "plan_interval_month": "/ month",
+    "plan_interval_year": "/ year"
+  },
+  "PricingFeatures": {
+    "feature_monthly_scans": "3 full scans per month",
+    "feature_full_report": "Full report, no locked content",
+    "feature_unlimited_scans": "Unlimited scans",
+    "feature_batch_scans": "Batch and scheduled scans",
+    "feature_pdf_download": "PDF report download",
+    "feature_email_support": "Email support"
+  },
+  "SponsorLogos": {
+    "sponsored_by": "Sponsored by",
+    "clerk_logo": "Clerk logo",
+    "sentry_logo": "Sentry logo",
+    "crowdin_logo": "Crowdin logo",
+    "arcjet_logo": "Arcjet logo",
+    "coderabbit_logo": "CodeRabbit logo",
+    "nextjs_boilerplate_logo": "Next.js SaaS Boilerplate logo"
+  },
+  "FAQ": {
+    "question": "Lorem ipsum dolor sit amet, consectetur adipiscing elit?",
+    "answer": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam enim dui, id consequat turpis ullamcorper ac. Mauris id quam dolor. Nullam eu egestas turpis. Proin risus elit, sollicitudin in mi a, accumsan euismod turpis. In euismod mi sed diam tristique hendrerit."
+  },
+  "CTA": {
+    "title": "You are ready?",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+    "button_text": "Get Next.js SaaS Starter Kit"
+  },
+  "Footer": {
+    "product": "Product",
+    "docs": "Docs",
+    "blog": "Blog",
+    "community": "Community",
+    "company": "Company",
+    "terms_of_service": "Terms Of Service",
+    "privacy_policy": "Privacy Policy",
+    "footer_text": "© {year} {name}. Made with <author></author>."
+  },
+  "SignIn": {
+    "meta_title": "Sign in",
+    "meta_description": "Seamlessly sign in to your account with our user-friendly login process."
+  },
+  "SignUp": {
+    "meta_title": "Sign up",
+    "meta_description": "Effortlessly create an account through our intuitive sign-up process."
+  },
+  "DashboardLayout": {
+    "meta_title": "SaaS Template Dashboard",
+    "meta_description": "A free and open-source landing page template for your SaaS business, built with Next.js, TypeScript, Shadcn UI, and Tailwind CSS.",
+    "home": "Home",
+    "members": "Members",
+    "billing": "Billing",
+    "settings": "Settings"
+  },
+  "DashboardIndexPage": {
+    "title_bar": "SEO Scanner",
+    "title_bar_description": "Enter a domain to get an instant SEO report",
+    "domain_placeholder": "example.com",
+    "submit_button": "Scan",
+    "quota_reached": "You've used all your free scans this month.",
+    "upgrade_cta": "Upgrade to Pro",
+    "usage_used": "{used} / {limit} free scans used this month",
+    "recent_reports_title": "Recent reports",
+    "no_reports_yet": "No scans yet. Run your first scan above."
+  },
+  "SeoReportPage": {
+    "title_bar_description": "SEO report",
+    "overall_score": "Overall score",
+    "download_pdf": "Download PDF",
+    "upgrade_to_download": "Upgrade to download PDF"
+  },
+  "BillingPage": {
+    "title_bar": "Billing",
+    "title_bar_description": "Manage your subscription",
+    "current_plan": "Current plan",
+    "plan_free": "Free",
+    "plan_pro": "Pro",
+    "renews_on": "Renews on {date}",
+    "upgrade_monthly": "Upgrade — Monthly",
+    "upgrade_yearly": "Upgrade — Yearly",
+    "manage_subscription": "Manage subscription"
+  },
+  "UserProfilePage": {
+    "title_bar": "User Profile",
+    "title_bar_description": "View and manage your user profile"
+  },
+  "OrganizationProfilePage": {
+    "title_bar": "Organization Management",
+    "title_bar_description": "Manage your organization"
+  }
+}
